@@ -6,7 +6,7 @@
 I'm a passionate developer with expertise in multiple programming languages, including Java, R, and C. I have hands-on experience with MySQL databases 🗄️ and a moderate understanding of Data Structures and Algorithms (DSA) 🤖in Java. I'm always excited to learn new technologies and solve complex problems through code.
 
 ### Skills:
-- **Java** 💻: Experienced in object-oriented programming and building robust projects.
+- **Java** 💻: Experienced in object-oriented programming and data structures using Java.
 - **MySQL** 🛠️: Skilled in database management and query optimization.
 - **DSA** 🧠: Good understanding of data structures and problem-solving techniques.
 - **R (Machine Learning)** 📊: Knowledgeable in applying R for data analysis and machine learning tasks.
